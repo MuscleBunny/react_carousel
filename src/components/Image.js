@@ -1,5 +1,4 @@
 import React, {Fragment} from "react"
-import "./Image.css";
 
 const Image = ({ imageSrc, imgW, imgH, position }) => {
     const imageStyle = {
